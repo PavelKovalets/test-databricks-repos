@@ -1,4 +1,8 @@
 # Databricks notebook source
+# MAGIC %md # Some title
+
+# COMMAND ----------
+
 print("hello!")
 
 # COMMAND ----------
@@ -12,6 +16,18 @@ x = 2
 # COMMAND ----------
 
 print(f"{x}nd version")
+
+# COMMAND ----------
+
+# MAGIC %sh ls .
+
+# COMMAND ----------
+
+# MAGIC %md #Andohter title
+
+# COMMAND ----------
+
+print("more!")
 
 # COMMAND ----------
 
