@@ -3,10 +3,6 @@
 
 # COMMAND ----------
 
-print("hello!")
-
-# COMMAND ----------
-
 print("hi there!")
 
 # COMMAND ----------
